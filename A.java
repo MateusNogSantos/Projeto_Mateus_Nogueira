@@ -1,4 +1,4 @@
-//Mateus Nogueira dos Santos
+// Mateus Nogueira dos Santos
 
 public class A {
     private int A1;
@@ -26,6 +26,10 @@ public class A {
 
     public void MA2(){
         System.out.println("MA2");
+    }
+
+    public void MA3(){
+        System.out.println("Alteração a classe A partir do clone");
     }
 
 }
